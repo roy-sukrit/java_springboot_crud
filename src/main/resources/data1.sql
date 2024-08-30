@@ -1,0 +1,8 @@
+-- INSERT INTO product (
+--     name, description, brand, price, category, release_date, product_available, stock_quantity
+-- ) VALUES
+--       ('UltraTech Smartphone', 'A high-performance smartphone with a sleek design.', 'UltraTech', 699.99, 'Electronics', '2024-01-15', true, 150),
+--       ('ProClean Vacuum', 'A powerful vacuum cleaner with advanced filtration.', 'ProClean', 149.99, 'Home Appliances', '2023-11-10', true, 80),
+--       ('EcoBrew Coffee Maker', 'An eco-friendly coffee maker with programmable features.', 'EcoBrew', 89.95, 'Kitchen', '2024-03-20', true, 120),
+--       ('TechGenius Laptop', 'A high-performance laptop with the latest specs.', 'TechGenius', 1299.00, 'Computers', '2024-06-30', false, 0),
+--       ('SportyFit Smartwatch', 'A smartwatch with fitness tracking and notifications.', 'SportyFit', 199.99, 'Wearables', '2024-05-05', true, 200);
